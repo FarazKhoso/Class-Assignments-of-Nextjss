@@ -1,0 +1,46 @@
+
+#hero{
+    background-image: url(Featured_Categorie_Men-Tees_2.webp);
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+    background-size: 400px;
+    background-position: top 0% right 200px;
+    padding: 0 80px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#hero h4{
+    padding-bottom: 15px;
+
+}
+
+#hero h1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: #088178;
+    padding-bottom: 20px;
+}
+
+#hero h2{
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+p{
+    padding-bottom: 17px;
+}
+
+#hero button{
+    color: #088178; 
+    padding: 12px 50px 10px; 
+    background-repeat: no-repeat;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 15px;
+
+
+}
