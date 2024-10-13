@@ -1,0 +1,27 @@
+.bd{
+    background-color: rgb(4, 168, 189);
+    color: aliceblue;
+    height: 650px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.main{
+    height: 200px;
+    width: 230px;
+    background-color: blueviolet;
+    border: 2px solid transparent;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    color: yellow;
+    font-family: cursive;
+
+    box-shadow: 4 3px 12px 3px;
+}
